@@ -2,12 +2,6 @@
 
 https://fasterxml.github.io/jackson-databind/javadoc/2.7/com/fasterxml/jackson/databind/SerializationFeature.html#ORDER_MAP_ENTRIES_BY_KEYS
 
-task testBoth {
-    doFirst {
-      println 'This is executed first during the execution phase.'
-    }
-    doLast {
-      println 'This is executed last during the execution phase.'
-    }
-    println 'This is executed during the configuration phase as well.'
-}
+ISIN is the key for RTS23
+ISIN is mandantory field for RTS 22 (field 41)
+ISIN is also required for post-trade transparency under RTS2
