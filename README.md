@@ -17,3 +17,8 @@ ANNA-DSB ISIN storage: 7 years log, record forever
 ANNA-DSB ISIN DR: 4 hours, annual test
 ANNA-DSB ISIN production live: 02/10/2017
 </pre>
+
+<pre>
+question: https://www.esma.europa.eu/sites/default/files/library/esma00-6-265_note_on_mifid_reporting_0.pdf 
+july 2017?
+</pre>
