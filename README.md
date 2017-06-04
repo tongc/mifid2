@@ -8,6 +8,7 @@ ISIN is mandantory field for RTS 22, T+1 transaction reporting (field 41)
 ISIN is also required for post-trade transparency under RTS2 (which also inlcludes pre-trade transparency)
 in one word - ISIN is not needed for pre-trade
 
+ANNA-DSB ISIN final report: http://www.anna-web.org/wp-content/uploads/2016/12/DSBTO-CP001-Final-Report-v1.1.pdf
 ANNA-DSB ISIN latency: 99% below 1,000ms
 ANNA-DSB ISIN bursts: 60,000/minute from 200 users
 ANNA-DSB ISIN connectivity: VPN or SSL
