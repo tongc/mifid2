@@ -29,12 +29,9 @@ FIRDS reporting spec & samples: https://www.esma.europa.eu/sites/default/files/l
 
 ### Questions
 <pre>
-question: https://www.esma.europa.eu/sites/default/files/library/esma00-6-265_note_on_mifid_reporting_0.pdf 
-july 2017?
+
 </pre>
 
 ### TODO
 <pre>
-1. create story to remove timedchecked class but use @Timed annotation instead.
-2. check if TOTV multiple input also could return partial error response
 </pre>
