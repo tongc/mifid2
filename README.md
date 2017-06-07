@@ -34,4 +34,7 @@ FIRDS reporting spec & samples: https://www.esma.europa.eu/sites/default/files/l
 
 ### TODO
 <pre>
+http://www.linklaters.com/Insights/MiFIDII/Pages/MiFIDII-MiFIR-status-Level2.aspx
+http://www.linklaters.com/Insights/MiFIDII/Pages/MiFIDII-MIFIR-Status-UK-implementation.aspx
+http://www.linklaters.com/Insights/MiFIDII/Pages/MiFIDII-MiFIR-status-Level3.aspx
 </pre>
