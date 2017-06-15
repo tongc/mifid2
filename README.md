@@ -29,7 +29,7 @@ FIRDS reporting spec & samples: https://www.esma.europa.eu/sites/default/files/l
 
 ### Questions
 <pre>
-Compression rather than hashing, biggest one I can see is around 500 characters where there is almost no arbitrary values.
+Compression rather than hashing, biggest one I can see is around 500 characters where there is almost no arbitrary values. all other values can be sourced from schema dictionary.
 </pre>
 
 ### TODO
