@@ -31,6 +31,8 @@ FIRDS reporting spec & samples: https://www.esma.europa.eu/sites/default/files/l
 <pre>
 Compression rather than hashing, biggest one I can see is around 500 characters where there is almost no arbitrary values. all other values can be sourced from schema dictionary.
 If beyond certain size, we use hash.
+8 bytes date can be compressed to 3 bytes
+index can be alphanumerical using 0-9 A-Z a-z which gives us up to 62 index
 </pre>
 
 ### TODO
