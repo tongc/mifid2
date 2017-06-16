@@ -34,9 +34,9 @@ If beyond certain size, we use hash.
 8 bytes date can be compressed to 3 bytes
 index can be alphanumerical using 0-9 A-Z a-z which gives us up to 62 index
 if db fails, provides the compression in the error message
-<version>
-<headerIndex>
-<attributes>
+[version]
+[headerIndex]
+[attributes]
 </pre>
 
 ### TODO
